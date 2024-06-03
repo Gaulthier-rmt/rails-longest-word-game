@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+
+ ul.grille li {
+  display: inline;
+ }
+
+ li {
+  font-size: xx-large;
+ }
